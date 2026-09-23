@@ -4,7 +4,7 @@
 
 cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
 
-[![x-cmd/install — cz-git Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cz-git.svg)](https://x-cmd.com/install/cz-git)
+[![x-cmd/install — cz-git Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/cz-git.svg)](https://x-cmd.com/install/cz-git)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **16,632** lines of code across **135** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 2 | 0 | 0 |
-| last60d | 2026-07-24 | 2 | 2 | 0 | 4 | 0 | 5 |
-| 90d | 2026-06-24 | 2 | 2 | 0 | 4 | 0 | 5 |
-| last180d | 2026-03-26 | 4 | 4 | 0 | 6 | 0 | 9 |
-| 360d | 2025-09-27 | 4 | 4 | 0 | 13 | 0 | 10 |
-| last720d | 2024-10-02 | 9 | 13 | 0 | 37 | 0 | 41 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 2 | 0 | 0 |
+| last60d | 2026-07-25 | 2 | 2 | 0 | 4 | 0 | 5 |
+| 90d | 2026-06-25 | 2 | 2 | 0 | 4 | 0 | 5 |
+| last180d | 2026-03-27 | 4 | 4 | 0 | 6 | 0 | 9 |
+| 360d | 2025-09-28 | 4 | 4 | 0 | 12 | 0 | 10 |
+| last720d | 2024-10-03 | 9 | 13 | 0 | 37 | 0 | 41 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for cz-git lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:32:44Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:24:31Z._
