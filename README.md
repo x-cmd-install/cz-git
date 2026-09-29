@@ -37,22 +37,22 @@ Total: **16,632** lines of code across **135** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,530 · **Forks**: 53 · **Open issues**: 128 · **Contributors**: 17
+- **Stars**: 1,530 · **Forks**: 53 · **Open issues**: 129 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 69 · **Open PRs**: 0 · **Closed issues**: 128 · **Open issues**: 0 · **Commits**: 938
+- **Releases**: 66 · **Merged PRs**: 69 · **Open PRs**: 0 · **Closed issues**: 129 · **Open issues**: 0 · **Commits**: 938
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 0 | 2 | 0 | 0 |
-| last60d | 2026-07-30 | 2 | 2 | 0 | 3 | 0 | 5 |
-| 90d | 2026-06-30 | 2 | 2 | 0 | 4 | 0 | 5 |
-| last180d | 2026-04-01 | 4 | 4 | 0 | 6 | 0 | 9 |
-| 360d | 2025-10-03 | 4 | 4 | 0 | 12 | 0 | 10 |
-| last720d | 2024-10-08 | 8 | 12 | 0 | 36 | 0 | 37 |
+| 30d | 2026-08-30 | 0 | 0 | 0 | 3 | 0 | 0 |
+| last60d | 2026-07-31 | 2 | 1 | 0 | 4 | 0 | 5 |
+| 90d | 2026-07-01 | 2 | 2 | 0 | 5 | 0 | 5 |
+| last180d | 2026-04-02 | 4 | 4 | 0 | 7 | 0 | 9 |
+| 360d | 2025-10-04 | 4 | 4 | 0 | 13 | 0 | 10 |
+| last720d | 2024-10-09 | 8 | 12 | 0 | 37 | 0 | 37 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for cz-git lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:44:12Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:11:42Z._
